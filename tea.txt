@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" href="tea.css">
+</head>
+<body>
+	<div>
+	<p >SELECT  TYPE OF TEA</p>
+	<form>
+		<p class="chai">
+		<input type="radio">BOBA TEA<br>
+		<input type="radio">MATCHA TEA<br>
+		<input type="radio">GREEN TEA<br>
+		<input type="radio">MASALA CHAI<br>
+		<input type="radio">EARLY GREY<br>
+		<input type="radio"> MILK TEA<br>
+		<input type="radio">JAGGERY TEA<br>
+
+	</p>
+
+	</form>
+	<button type="submit" >S U B M I T</button>
+</div>
+</html>

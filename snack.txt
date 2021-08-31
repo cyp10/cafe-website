@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" href="snack.css">
+</head>
+<body>
+	<div>
+	<p >SELECT  TYPE OF SNACK</p>
+	<form>
+		<p class="biscut">
+		<input type="radio">BROWNIE<br>
+		<input type="radio">DONUT<br>
+		<input type="radio">PIE<br>
+		<input type="radio">BAGEL WITH CREAM CHEESE<br>
+		<input type="radio">PASTRY<br>
+		<input type="radio">COOKIE<br>
+		<input type="radio">CRACKERS<br>
+
+	</p>
+
+	</form>
+	<a href="submit.html"><p style="color:black; font-weight:bolder;font-size:100px;margin-bottom: 50px;">SUBMIT</p></a>
+	
+</div>
+</html>

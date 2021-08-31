@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="choice.css">
+</head>
+<body>
+	<p>SELECT YOUR CHOICE</p>
+<a href="coffee.html">
+	<div class="cc"> COFFEE</div>
+
+</a>
+<a href="tea.html">
+	<div class="tt">TEA</div>
+
+</a>
+<a href="juice.html">
+	<div class="jj">JUICE</div>
+
+</a>
+<a href="snack.html">
+	<div class="mc">SNACKS</div>
+
+</a>
+
+
+	</body>
+</html>

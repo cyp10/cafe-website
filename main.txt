@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head><title>REFRESHMENTS</title>
+<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body> 
+<div> <p>WELCOME TO BAKERS AND BREWERS</p><a href="choice.html">CLICK HERE</a></div>
+
+</body>
+</html>

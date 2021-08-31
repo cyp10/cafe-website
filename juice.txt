@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" href="juice.css">
+</head>
+<body>
+	<div>
+	<p >SELECT  TYPE OF JUCIE</p>
+	<form>
+		<p class="juch">
+		<input type="radio">WATERMELON<br>
+		<input type="radio">APPLE<br>
+		<input type="radio">PINEAPPLE<br>
+		<input type="radio">GRAPE<br>
+		<input type="radio">POMOGRANET<br>
+		<input type="radio">ORANGE<br>
+		<input type="radio">MILKSHAKES<br>
+
+	</p>
+
+	</form>
+	<a href="submit.html"><p style="color:black; font-weight:bolder;font-size:100px;margin-bottom: 50px;">SUBMIT</p></a>
+</div>
+</html>

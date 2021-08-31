@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head> 
+	<link rel="stylesheet" href="submit.css">
+</head>
+<body>
+	<div> <p> YOUR ORDER WILL BE DELIVERD SOON </p></div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" href="coffee.css">
+</head>
+<body>
+	<div>
+	<p >SELECT  TYPE OF COFFEE</p>
+	<form>
+		<p class="kapi">
+		<input type="radio">LATTE<br>
+		<input type="radio">CAPPUCCINO<br>
+		<input type="radio">ESPRESSO<br>
+		<input type="radio">DOPPIO<br>
+		<input type="radio">ARABICA<br>
+		<input type="radio">AMERICANO<br>
+		<input type="radio">BLACK<br>
+
+	</p>
+
+	</form>
+	<a href="submit.html"><p style="color:black; font-weight:bolder;font-size:100px;margin-bottom: 50px;">SUBMIT</p></a>
+</div>
+</html>
